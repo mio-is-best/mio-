@@ -3,6 +3,14 @@ description: 反馈一个bug
 title: "[Bug]: "
 labels: ["bug"]
 body:
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: 确认事项
+      description: 请勾选以下确认项
+      options:
+        - label: 我已搜索过现有 Issue，没有类似问题
+          required: true
   - type: textarea
     id: what-happened
     attributes:
