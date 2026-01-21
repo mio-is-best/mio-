@@ -2,20 +2,25 @@ name: Bug Report
 description: 反馈一个bug
 title: "[Bug]: "
 labels: ["bug"]
-type: bug
 body:
   - type: textarea
     id: what-happened
     attributes:
       label: 现象
-      description: 发生了什么,预期发生什么?
+      description: 发生了什么？预期发生什么？
+      placeholder: 请详细描述问题现象...
     validations:
       required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 重现步骤
+      description: 如何重现这个bug？
   - type: dropdown
     id: game
     attributes:
       label: 游戏
-      description: 哪个游戏出现了bug?
+      description: 哪个游戏出现了bug？
       options:
         - 技能国象
         - 群友抽卡
@@ -32,4 +37,12 @@ body:
         - Safari
         - Microsoft Edge
         - QQ
-
+  - type: markdown
+    attributes:
+      value: "## 截图\n如有截图，请直接拖拽到下面的输入框中："
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 相关截图或日志
+      description: 可以粘贴截图或错误日志
+      render: shell
