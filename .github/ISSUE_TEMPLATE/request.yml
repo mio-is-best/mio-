@@ -3,6 +3,14 @@ description: 提出新功能或改进建议
 title: "[建议]: "
 labels: ["enhancement", "request"]
 body:
+  - type: dropdown
+    id: game
+    attributes:
+      label: 游戏
+      description: 你想对哪个游戏做出建议？
+      options:
+        - 技能国象
+        - 群友抽卡
   - type: textarea
     id: requests
     attributes:
