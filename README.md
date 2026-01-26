@@ -2,4 +2,4 @@
 
 [群友抽卡](https://render.lingguangcontent.com/p/lingguang/21d5a9e817671718901401298e607f/index.html)
 
-[杀戮群友](https://render.lingguangcontent.com/p/lingguang/0b24abce17693464678224119e2ae9/index.html)
+[杀戮群友](https://render.lingguangcontent.com/p/lingguang/2182a60417694125475882722ea673/index.html)
