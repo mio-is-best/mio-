@@ -8,4 +8,4 @@
 
 [群友格斗](https://render.lingguangcontent.com/p/lingguang/0a-21bb20fb17711443314964345e4db8/index.html)
 
-[群友打字(测试版)](https://render.lingguangcontent.com/p/lingguang/0a-0b24c17b17720325464126930e77f9/index.html)
+[群友打字(测试版)](https://render.lingguangcontent.com/p/lingguang/0a-2180694c17720327821755006eff6a/index.html)
